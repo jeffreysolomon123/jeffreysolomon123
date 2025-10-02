@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+https://gitmystat.vercel.app/user?username=jeffreysolomon123
+
 <!--
 **jeffreysolomon123/jeffreysolomon123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
