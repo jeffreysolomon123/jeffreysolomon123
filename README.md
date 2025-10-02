@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-https://gitmystat.vercel.app/user?username=jeffreysolomon123
+[https://gitmystat.vercel.app/top?username=jeffreysolomon123](https://gitmystat.vercel.app/top?theme=&username=jeffreysolomon123&layout=default)
 
 <!--
 **jeffreysolomon123/jeffreysolomon123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
